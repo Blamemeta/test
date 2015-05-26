@@ -1,5 +1,6 @@
 # test
 A repository for testing concepts and the like. Hello World basically.
+I run Windows 7 64-bit. I write in C in this one, but I'll probably add some java at some point.
 
 TUI.c is an extemely basic Text User Interface. It simply allows for text menus.
 
